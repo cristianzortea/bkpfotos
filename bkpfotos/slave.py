@@ -1,9 +1,28 @@
 import smtplib
 import os, shutil
+import imghdr
+import time
+from PIL import Image
+from PIL.ExifTags import TAGS
+from datetime import datetime  
+
 
 pathdropbox = "/home/tonho/Dropbox/Camera Uploads"
 pathlog = "/home/tonho/bkpfotos"
 pathbkp = "/home/tonho/bkpfotos/bkp"
+
+def get_meta_picture(picture):
+    ret = {}
+    i = Image.open(picture)
+    info = i._getexif()
+    for tag, value in info.items():
+        decoded = TAGS.get(tag, tag)
+        ret[decoded] = value
+        #print("\n\n\n\n -----: ")
+        #print(decoded)
+        #print(value)
+    return ret
+
 
 def sendemail(subject):
 	print("Sending email")
@@ -47,22 +66,66 @@ def readLog():
 	return text
 
 def readPictures():
+	unsavefiles = []
 	os.chdir(pathdropbox)
+	print("readPictures ")
 	for root, dirs, files in os.walk("."):  
 		for filename in files:
+			picturepath = pathdropbox + root.replace(".", "") + "/" + filename
+			print("picturepath " + picturepath)
+			unsavefiles.append(picturepath)
+			#insertLog(picturepath)
+			
+	return unsavefiles
 
-				
-			insertLog(filename)
+def sendemailfilescopied(emailfiles):
+	text = "\n\n\n The listed files were copied to bkp:\n \n "
+	for file in emailfiles:
+		text = text + file
+		#print(file)
+	#sendemail(text)
+	print(text)
 
-def sendemailfilescopied():
-	filescopied  = readLog()
-	text = "\n\n\n The listed files were copied to bkp:\n \n " + filescopied
-	sendemail(text)
-	createLog("")
+def getfiledate(file):
+	type_file = imghdr.what(file)
+	print(type_file)
+	date = None
+	if type_file != None:
+		print("pass")
+		meta = get_meta_picture(file)
+		datestring = meta['DateTimeOriginal'] 
+		date = datetime.strptime(datestring,'%Y:%m:%d %H:%M:%S')
+	return date
 
-#createLog("teste")
-readPictures()
-sendemailfilescopied()
+def executebkp():
+	emailfiles = []
+	#log = readLog()
+	#files = log.split("\n")
+	# get files
+	correntDate = datetime.now()
+	insertLog(" ---------------------- BKP: " + str(correntDate))
+	unsavefiles = readPictures()
+	for file in unsavefiles:
+		print("line " + file)
+		if file != "":
+			date = getfiledate(file)
+			dest = pathbkp
+			if date != None:
+				dest = dest + "/" + str(date.year) + "/" + str(date.month)
+			shutil.copyfile(file, dest)
+			insertLog("|_________ File: " + file)
+			insertLog("          |___ Destination: " + dest)
+			emailfiles.append("\n|_________ File: " + file)
+			emailfiles.append("\n           |___ Destination: " + dest)
+	
+	sendemailfilescopied(emailfiles)
+
+#while 1:
+#    executebkp()
+#    time.sleep(1000000)
+
+executebkp()
+
 
 
 
