@@ -2,14 +2,73 @@ import smtplib
 import os, shutil
 import imghdr
 import time
+import imaplib
+import email
+
 from PIL import Image
 from PIL.ExifTags import TAGS
-from datetime import datetime  
+from datetime import datetime 
+from pathlib import Path 
+
+
+class Email:
+
+	USER = 'monitoralertmessage@gmail.com'  
+	PWD = 'B4PPbTbQsr9NyCW'
+	to = ['cristianzortea@gmail.com', 'monitoralertmessage@gmail.com']
+	SMTP_SERVER = "imap.gmail.com"
+	SMTP_PORT = 993
+	
+	def sendemail(self, subject):
+		try:  
+			server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
+			server.ehlo()
+			server.login(self.USER, self.PWD)
+			server.sendmail(self.gmail_user, self.to, subject)
+			server.close()
+		except Exception as e:
+			printlog("Error: %s!\n\n" % e)
+
+	def read_email_from_gmail(self):
+		try:
+			mail = imaplib.IMAP4_SSL(self.SMTP_SERVER)
+			mail.login(self.USER, self.PWD)
+			mail.select('inbox')
+
+        	type, data = mail.search(None, 'ALL')
+        	mail_ids = data[0]
+
+			id_list = mail_ids.split()   
+        	first_email_id = int(id_list[0])
+        	latest_email_id = int(id_list[-1])
+
+
+        	for i in range(latest_email_id, first_email_id, -1):
+				typ, data = mail.fetch(i, '(RFC822)' )
+
+				for response_part in data:
+                	if isinstance(response_part, tuple):
+	                    msg = email.message_from_string(response_part[1])
+	                    email_subject = msg['subject']
+	                    email_from = msg['from']
+	                    print 'From : ' + email_from + '\n'
+	                    print 'Subject : ' + email_subject + '\n'
+
+		except Exception, e:
+        	print str(e)
+
+
 
 
 pathdropbox = "/home/tonho/Dropbox/Camera Uploads"
 pathlog = "/home/tonho/bkpfotos"
 pathbkp = "/home/tonho/bkpfotos/bkp"
+
+def createLog(text):
+	os.chdir(pathlog)
+	file = open("log.txt","w") 
+	file.write(text) 
+	file.close()
 
 def get_meta_picture(picture):
     ret = {}
@@ -18,113 +77,110 @@ def get_meta_picture(picture):
     for tag, value in info.items():
         decoded = TAGS.get(tag, tag)
         ret[decoded] = value
-        #print("\n\n\n\n -----: ")
-        #print(decoded)
-        #print(value)
     return ret
 
 
-def sendemail(subject):
-	print("Sending email")
 
-	gmail_user = 'monitoralertmessage@gmail.com'  
-	gmail_password = 'B4PPbTbQsr9NyCW'
-	to = ['cristianzortea@gmail.com', 'monitoralertmessage@gmail.com']   
-
-	try:  
-		server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
-		server.ehlo()
-		server.login(gmail_user, gmail_password)
-		server.sendmail(gmail_user, to, subject)
-		server.close()
-		print ('Email sent!')
-	except Exception as e:
-		print("Error: %s!\n\n" % e)
-
-def createLog(text):
+def printlog(text):
+	print(text)
 	os.chdir(pathlog)
-	print ('Creating log!')
-	file = open("log.txt","w") 
-	file.write(text) 
-	file.close()
-	print ('Created log!')
-
-def insertLog(text):
-	os.chdir(pathlog)
-	print ('inserting log line: ' + text)
 	file = open("log.txt","a") 
 	file.write(text + "\n") 
 	file.close()
 
 def readLog():
 	os.chdir(pathlog)
-	print ('reading log!')
+	printlog('reading log!')
 	file = open("log.txt", "r") 
 	text = file.read() 
 	file.close() 
-	print ('read log!')
 	return text
 
 def readPictures():
-	unsavefiles = []
-	os.chdir(pathdropbox)
-	print("readPictures ")
-	for root, dirs, files in os.walk("."):  
-		for filename in files:
-			picturepath = pathdropbox + root.replace(".", "") + "/" + filename
-			print("picturepath " + picturepath)
-			unsavefiles.append(picturepath)
-			#insertLog(picturepath)
-			
-	return unsavefiles
+	printlog("Reading pictures... ")
+	return os.listdir(pathdropbox)
 
 def sendemailfilescopied(emailfiles):
-	text = "\n\n\n The listed files were copied to bkp:\n \n "
-	for file in emailfiles:
-		text = text + file
-		#print(file)
-	#sendemail(text)
-	print(text)
+	email = Email()
+	text = "\n"
+	if len(emailfiles) != 0:
+		text = "\n\n\n The listed files were copied to bkp:\n"
+		for file in emailfiles:
+			text = text + file
+	else:
+		text = "\n\n\n There are no files to BKP.\n"
+
+	email.sendemail(text)
+	printlog(text)
 
 def getfiledate(file):
 	type_file = imghdr.what(file)
-	print(type_file)
 	date = None
 	if type_file != None:
-		print("pass")
 		meta = get_meta_picture(file)
 		datestring = meta['DateTimeOriginal'] 
 		date = datetime.strptime(datestring,'%Y:%m:%d %H:%M:%S')
 	return date
 
+def createdirectory(dir):
+	destination = Path(dir)
+	# Validate if the directory exists
+	if not destination.is_dir():
+		try:
+			os.makedirs(dir)
+		except OSError:
+			printlog("Creaion of the directory %s failed" % dir)
+		else:
+			printlog("Successfully created the directory %s" % dir)
+
+
+def savefiles(emailfiles, file, dest):
+	os.chdir(pathdropbox)
+	printlog("save files")
+	# save file
+	try:  
+		shutil.move(file,dest)
+		os.remove(file)
+		printlog("|_________ File: " + file)
+		printlog("          |___ Destination: " + dest)
+		emailfiles.append("\n|_________ File: " + file)
+		emailfiles.append("\n           |___ Destination: " + dest)
+	except Exception as e:
+		printlog("Error copying : %s!\n\n" % e)
+		sendemail("Error copying : %s!\n\n" % e)
+
+# BKP
 def executebkp():
 	emailfiles = []
-	#log = readLog()
-	#files = log.split("\n")
 	# get files
 	correntDate = datetime.now()
-	insertLog(" ---------------------- BKP: " + str(correntDate))
-	unsavefiles = readPictures()
-	for file in unsavefiles:
-		print("line " + file)
-		if file != "":
-			date = getfiledate(file)
-			dest = pathbkp
-			if date != None:
-				dest = dest + "/" + str(date.year) + "/" + str(date.month)
-			shutil.copyfile(file, dest)
-			insertLog("|_________ File: " + file)
-			insertLog("          |___ Destination: " + dest)
-			emailfiles.append("\n|_________ File: " + file)
-			emailfiles.append("\n           |___ Destination: " + dest)
-	
+	printlog("---------------------- BKP: " + str(correntDate))
+	files = readPictures()
+	for file in files:
+		realfile = pathdropbox + "/" + file
+		printlog("Get file " + realfile)
+		date = getfiledate(realfile)
+		dest = pathbkp
+		if date != None:
+
+			dest = dest + "/" + str(date.year) + "/" + str(date.month)
+			createdirectory(dest)
+
+		savefiles(emailfiles, realfile, dest)
+
+	# send email
 	sendemailfilescopied(emailfiles)
 
-#while 1:
-#    executebkp()
-#    time.sleep(1000000)
+while 1:
+	printlog("...")
 
-executebkp()
+	executebkp()
+
+	# 10 seconds
+	time.sleep(10)
+
+#bkp executebkp()
+
 
 
 

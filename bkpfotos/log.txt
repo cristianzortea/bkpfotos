@@ -1,0 +1,5393 @@
+ ---------------------- BKP: 2018-11-15 11:23:17.224344
+ ---------------------- BKP: 2018-11-15 11:38:06.407707
+ ---------------------- BKP: 2018-11-15 11:38:48.502314
+ ---------------------- BKP: 2018-11-15 11:39:33.633052
+ ---------------------- BKP: 2018-11-15 11:41:14.398293
+ ---------------------- BKP: 2018-11-15 11:41:45.264916
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+ ---------------------- BKP: 2018-11-15 11:42:34.052429
+ ---------------------- BKP: 2018-11-15 11:43:00.803023
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.23.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.22.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.57.56.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.30.31.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.29.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.01.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.25.41.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-24 21.47.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-27 21.36.34.mp4
+          |___ Destination: /home/tonho/bkpfotos/bkp
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.19.57.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.30.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.46.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.13.15.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.15.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 15.37.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.12.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.31.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.29.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.24.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.47.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-10 16.35.42.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.19.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.49.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.12.08.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.13.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.19.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.22.05.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.02.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-20 21.53.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.45.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-10-05 23.13.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/10
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.55.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 15.37.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.11.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.15.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.30.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.40.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+ ---------------------- BKP: 2018-11-15 11:50:47.128253
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.23.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.22.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.57.56.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.30.31.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.29.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.01.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.25.41.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-24 21.47.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-27 21.36.34.mp4
+          |___ Destination: /home/tonho/bkpfotos/bkp
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.19.57.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.30.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.10.46.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.13.15.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.15.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 15.37.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.12.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.31.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.29.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.24.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.47.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-10 16.35.42.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.19.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.58.49.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.12.08.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.13.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.19.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.22.05.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.20.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-11-30 16.21.02.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-20 21.53.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.45.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-10-05 23.13.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/10
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-03-13 17.11.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.41.55.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 15.37.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-04-19 00.11.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-08-27 07.22.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 01.01.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.14.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-21 20.15.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-12-29 00.30.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 15.59.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013/2013-09-07 10.51.40.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+ ---------------------- BKP: 2018-11-15 11:51:22.681929
+ ---------------------- BKP: 2018-11-15 11:55:04.492395
+ ---------------------- BKP: 2018-11-19 11:06:50.281080
+ ---------------------- BKP: 2018-11-19 11:12:21.278645
+Reading pictures... 
+ ---------------------- BKP: 2018-11-19 11:18:18.020208
+Reading pictures... 
+jpeg
+pass
+---------------------- BKP: 2018-11-19 11:20:34.705383
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+---------------------- BKP: 2018-11-19 11:24:46.174156
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+---------------------- BKP: 2018-11-19 11:25:13.479575
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+---------------------- BKP: 2018-11-19 11:25:48.194910
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+---------------------- BKP: 2018-11-19 11:26:41.390232
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+---------------------- BKP: 2018-11-19 11:27:21.607119
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/9
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+---------------------- BKP: 2018-11-19 11:29:42.785246
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/11
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/5
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/5'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/4
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/4'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/8
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/8'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/4'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+jpeg
+pass
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/12
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/5'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+jpeg
+pass
+save files
+Error: [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+---------------------- BKP: 2018-11-19 11:34:18.777278
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/5'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/4'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/8'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/4'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/9'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/5'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/11'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 21] Is a directory: '/home/tonho/bkpfotos/bkp/2013/12'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+---------------------- BKP: 2018-11-19 11:35:38.605440
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-09-07 10.51.25.jpg'!
+
+
+|_________ File: 2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.20.11.jpg'!
+
+
+|_________ File: 2013-11-30 16.20.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-05-10 08.59.59.jpg'!
+
+
+|_________ File: 2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-09-07 15.58.13.jpg'!
+
+
+|_________ File: 2013-09-07 15.58.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.21.22.jpg'!
+
+
+|_________ File: 2013-11-30 16.21.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-09-07 15.58.23.jpg'!
+
+
+|_________ File: 2013-09-07 15.58.23.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-04-19 00.10.59.jpg'!
+
+
+|_________ File: 2013-04-19 00.10.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.20.20.jpg'!
+
+
+|_________ File: 2013-11-30 16.20.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.22.03.jpg'!
+
+
+|_________ File: 2013-11-30 16.22.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-08-27 07.22.20.jpg'!
+
+
+|_________ File: 2013-08-27 07.22.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-04-19 00.10.28.jpg'!
+
+
+|_________ File: 2013-04-19 00.10.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-09-07 10.51.07.jpg'!
+
+
+|_________ File: 2013-09-07 10.51.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-09-07 15.57.56.jpg'!
+
+
+|_________ File: 2013-09-07 15.57.56.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-12-29 00.30.31.jpg'!
+
+
+|_________ File: 2013-12-29 00.30.31.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-12-21 20.14.25.jpg'!
+
+
+|_________ File: 2013-12-21 20.14.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.21.10.jpg'!
+
+
+|_________ File: 2013-11-30 16.21.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-05-19 23.08.37.jpg'!
+
+
+|_________ File: 2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.20.29.jpg'!
+
+
+|_________ File: 2013-11-30 16.20.29.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-12-21 20.14.59.jpg'!
+
+
+|_________ File: 2013-12-21 20.14.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-11-30 16.21.01.jpg'!
+
+
+|_________ File: 2013-11-30 16.21.01.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-12-21 20.25.41.jpg'!
+
+
+|_________ File: 2013-12-21 20.25.41.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+jpeg
+pass
+save files
+save files
+Error copying : [Errno 2] No such file or directory: '2013-12-24 21.47.59.jpg'!
+
+
+|_________ File: 2013-12-24 21.47.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+---------------------- BKP: 2018-11-19 11:38:27.628646
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.23.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.20.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.57.56.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.31.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.25.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.29.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.01.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.25.41.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+jpeg
+pass
+save files
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-24 21.47.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+---------------------- BKP: 2018-11-19 11:40:41.141559
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+---------------------- BKP: 2018-11-19 11:42:25.575290
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+          |___ Destination: /home/tonho/bkpfotos/bkp
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.57.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.57.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.57.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.38.jpg
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/3
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.38.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.30.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.30.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.30.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.12.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.12.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.15.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.15.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.15.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.00.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.00.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.07.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.07.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.38.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.38.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.38.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.04.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.04.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.11.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.11.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.11.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.18.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.18.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.31.07.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.31.07.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.31.07.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.29.12.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.29.12.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.29.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.24.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.24.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.24.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.44.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.44.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.47.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.47.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.47.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-10 16.35.42.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-10 16.35.42.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-10 16.35.42.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.19.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.19.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.19.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.49.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.49.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.49.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.08.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.08.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.08.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.27.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.27.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.44.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.44.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.44.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.05.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.05.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.05.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.12.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.12.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.12.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.02.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.02.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.02.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.10.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.10.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.26.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.26.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.26.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.26.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.26.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-20 21.53.18.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-20 21.53.18.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-20 21.53.18.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.27.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.27.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.27.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.45.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.45.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.45.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.13.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.13.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.13.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-10-05 23.13.09.jpg
+Successfully created the directory /home/tonho/bkpfotos/bkp/2013/10
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-10-05 23.13.09.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-10-05 23.13.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/10
+Get file /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.28.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.28.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.55.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.55.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.55.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.03.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.03.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.21.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.21.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+Get file /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.10.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.10.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.10.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.22.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.22.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.22.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.35.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.35.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.03.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.03.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.03.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.00.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.00.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.00.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.09.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.09.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.09.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+Get file /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.40.jpg
+save files
+Error copying : [Errno 2] No such file or directory: '/home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.40.jpg'!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.40.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-27 21.36.34.mp4
+           |___ Destination: /home/tonho/bkpfotos/bkp
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.57.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.38.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.30.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.12.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.15.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.00.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.07.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.38.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.04.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.11.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.18.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.31.07.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.29.12.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.24.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.44.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.47.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-10 16.35.42.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.19.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.58.49.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.12.08.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.13.27.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.19.44.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.22.05.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.20.12.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-11-30 16.21.02.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/11
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.10.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.26.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.26.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-20 21.53.18.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.27.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.45.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.13.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-10-05 23.13.09.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/10
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-03-13 17.11.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/3
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.41.55.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 15.37.03.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/4
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-08-27 07.22.10.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/8
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 01.01.22.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.14.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-21 20.15.03.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-12-29 00.30.00.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/12
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 15.59.09.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-09-07 10.51.40.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/9
+---------------------- BKP: 2018-11-19 11:43:05.879009
+Reading pictures... 
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+---------------------- BKP: 2018-11-19 12:40:08.948873
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+---------------------- BKP: 2018-11-19 12:40:14.247094
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:50.793491
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:51.798309
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:52.803793
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:53.810029
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:54.816013
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:55.822066
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:56.827779
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:57.834191
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:58.841865
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:40:59.847187
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:00.852883
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:01.859034
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:02.864704
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:03.872974
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:04.878602
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:18.303309
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:28.317212
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:38.331994
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:41:48.347021
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+ 
+ 
+...
+---------------------- BKP: 2018-11-19 12:50:37.817186
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:50:47.831017
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:50:57.842086
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:51:07.854134
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:51:17.934300
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:51:28.002525
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:51:38.068148
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:51:48.133128
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:51:58.198395
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 08.59.59.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-19 23.08.37.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.14.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.21.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.28.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-30 19.04.35.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Get file /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/5/2013-05-10 09.13.52.jpg' already exists!
+
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+          |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ The listed files were copied to bkp:
+
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 08.59.59.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-19 23.08.37.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.14.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.21.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.28.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-30 19.04.35.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+|_________ File: /home/tonho/Dropbox/Camera Uploads/2013-05-10 09.13.52.jpg
+           |___ Destination: /home/tonho/bkpfotos/bkp/2013/5
+...
+---------------------- BKP: 2018-11-19 12:52:08.254490
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:52:18.261446
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:52:28.278435
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:52:38.287962
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:52:47.423944
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:52:57.432968
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:07.441749
+Reading pictures... 
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:17.457325
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:27.524399
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:37.568733
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:47.618855
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:53:57.663904
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:07.711879
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:17.762052
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:27.786505
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:37.826763
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:47.867939
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:54:57.910549
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:07.960970
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:18.014882
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:28.039983
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:38.080046
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:48.121956
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:55:58.171851
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP:
+
+...
+---------------------- BKP: 2018-11-19 12:56:01.334259
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:56:11.379074
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:56:21.440113
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:56:31.498362
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:56:41.566587
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:56:51.629632
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:01.687165
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:11.742575
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:21.798344
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:31.855347
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:41.913986
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:57:51.972687
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:02.024492
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:12.078181
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:22.139859
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:32.196734
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:42.257438
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:58:52.322219
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:02.382299
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:12.443270
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:22.503704
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:32.558592
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:42.616351
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 12:59:52.666799
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:02.726912
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:12.783668
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:22.842531
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:32.898625
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:42.939371
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:00:53.003207
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:03.055517
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:13.109940
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:23.158447
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:33.208143
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:43.275359
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:01:53.327919
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:03.377691
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:13.430570
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:23.488667
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:33.538314
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:43.584728
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:02:53.629891
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:03.674659
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:13.727587
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:23.787285
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:33.847383
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:43.902285
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:03:53.949501
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:04:04.005531
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:04:14.056909
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:04:24.114161
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:04:34.175104
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 13:04:44.235653
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 19:49:04.298774
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+Error: [Errno -2] Name or service not known!
+
+
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 19:49:14.345300
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Email sent!
+Email sent!
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 19:49:31.754242
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Email sent!
+Email sent!
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 19:49:47.835359
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.28.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.28.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.46.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.46.jpg' already exists!
+
+
+Email sent!
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.11.04.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.11.04.jpg' already exists!
+
+
+Email sent!
+Email sent!
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-19 19:50:04.359307
+Reading pictures... 
+Get file /home/tonho/Dropbox/Camera Uploads/2013-04-19 00.10.59.jpg
+save files
+Error copying : Destination path '/home/tonho/bkpfotos/bkp/2013/4/2013-04-19 00.10.59.jpg' already exists!
+
+
+...
+---------------------- BKP: 2018-11-20 08:58:54.490236
+Reading pictures... 
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+---------------------- BKP: 2018-11-20 09:04:37.093611
+Reading pictures... 
+...
+---------------------- BKP: 2018-11-20 09:05:19.193198
+Reading pictures... 
+...
+---------------------- BKP: 2018-11-20 09:44:38.400748
+Reading pictures... 
+...
+---------------------- BKP: 2018-11-20 09:45:27.794152
+Reading pictures... 
+...
+---------------------- BKP: 2018-11-20 09:49:11.295085
+Reading pictures... 
+
+
+
+ There are no files to BKP.
+
+...
+---------------------- BKP: 2018-11-20 09:49:24.444211
+Reading pictures... 
+
+
+
+ There are no files to BKP.
+
