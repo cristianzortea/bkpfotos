@@ -10,7 +10,6 @@ from PIL.ExifTags import TAGS
 from datetime import datetime 
 from pathlib import Path 
 
-
 class Gmail:
 
 	USER = 'monitoralertmessage@gmail.com'  
@@ -68,9 +67,6 @@ class Gmail:
 							
 		#except Exception as e:
 			#printlog("Error: %s!\n\n" % e)
-
-
-
 
 pathdropbox = "/home/tonho/Dropbox/Camera Uploads"
 pathlog = "/home/tonho/bkpfotos"
