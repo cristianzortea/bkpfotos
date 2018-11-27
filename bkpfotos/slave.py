@@ -11,11 +11,11 @@ from datetime import datetime
 from pathlib import Path 
 
 
-class Email:
+class Gmail:
 
 	USER = 'monitoralertmessage@gmail.com'  
 	PWD = 'B4PPbTbQsr9NyCW'
-	to = ['cristianzortea@gmail.com', 'monitoralertmessage@gmail.com']
+	TO = ['cristianzortea@gmail.com', 'monitoralertmessage@gmail.com']
 	SMTP_SERVER = "imap.gmail.com"
 	SMTP_PORT = 993
 	
@@ -24,38 +24,50 @@ class Email:
 			server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
 			server.ehlo()
 			server.login(self.USER, self.PWD)
-			server.sendmail(self.gmail_user, self.to, subject)
+			server.sendmail(self.gmail_user, self.TO, subject)
 			server.close()
 		except Exception as e:
 			printlog("Error: %s!\n\n" % e)
 
 	def read_email_from_gmail(self):
-		try:
+		#try:
 			mail = imaplib.IMAP4_SSL(self.SMTP_SERVER)
 			mail.login(self.USER, self.PWD)
 			mail.select('inbox')
 
-        	type, data = mail.search(None, 'ALL')
-        	mail_ids = data[0]
+			type, data = mail.search(None, 'ALL')
+			mail_ids = data[0]
 
 			id_list = mail_ids.split()   
-        	first_email_id = int(id_list[0])
-        	latest_email_id = int(id_list[-1])
+			first_email_id = int(id_list[0])
+			latest_email_id = int(id_list[-1])
 
-
-        	for i in range(latest_email_id, first_email_id, -1):
-				typ, data = mail.fetch(i, '(RFC822)' )
-
+			for i in range(latest_email_id, first_email_id, -1):
+				typ, data = mail.fetch(str(i), "(RFC822)" )
 				for response_part in data:
-                	if isinstance(response_part, tuple):
-	                    msg = email.message_from_string(response_part[1])
-	                    email_subject = msg['subject']
-	                    email_from = msg['from']
-	                    print 'From : ' + email_from + '\n'
-	                    print 'Subject : ' + email_subject + '\n'
+					if isinstance(response_part, tuple):
 
-		except Exception, e:
-        	print str(e)
+					
+						
+						print("\n\n\n\n\n\n---------------------------------")
+						myemail = email.message_from_string(response_part[1].decode()) 
+						if myemail.is_multipart():
+							for payload in myemail.get_payload():
+								myemail = payload.get_payload()
+
+						else:
+							myemail = myemail.get_payload()
+
+						print(myemail)
+
+						#if self.USER == myemail['from']:
+						#printlog("To : " + str(myemail['to']) + "\n")
+						#printlog("Subject : " + str(myemail['subject']) + "\n")
+						#printlog("From : " + str(myemail['from']) + "\n")
+						#printlog("Body : " + str(myemail['body']) + "\n")
+							
+		#except Exception as e:
+			#printlog("Error: %s!\n\n" % e)
 
 
 
@@ -78,8 +90,6 @@ def get_meta_picture(picture):
         decoded = TAGS.get(tag, tag)
         ret[decoded] = value
     return ret
-
-
 
 def printlog(text):
 	print(text)
@@ -174,8 +184,9 @@ def executebkp():
 while 1:
 	printlog("...")
 
-	executebkp()
-
+	#executebkp()
+	gmail = Gmail()
+	gmail.read_email_from_gmail()
 	# 10 seconds
 	time.sleep(10)
 
